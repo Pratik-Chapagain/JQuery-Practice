@@ -1,3 +1,5 @@
-body {
-    background-color: green;
+.big {
+    font-size: 10rem;
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
 }
