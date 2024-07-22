@@ -1,4 +1,5 @@
-$("input").keypress(function(event)
-{
-    console.log(event.key);
+$("button").on("click", function(){
+
+    $("h1").slideUp().slideDown().animate({opacity: 0.2});
+        
 });
